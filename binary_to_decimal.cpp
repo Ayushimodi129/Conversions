@@ -15,7 +15,6 @@ int bin2dec(int n)
 }
 int main()
 {
-
     int x;
     cin>>x;
     cout<<bin2dec(x);
