@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+
 int decimal2bin(int n)
 {
     int x=1;
@@ -17,6 +18,7 @@ int decimal2bin(int n)
     }
     return ans;
 }
+
 int main()
 {
     int t;
